@@ -1,19 +1,10 @@
-# About the Author
+Mid-Level DevOps Engineer Version
 
-Hi Everyone, My name is Abhishek Veeramalla, I am a Principal software engineer and an educator with 400k community on YouTube.
+Hi everyone, my name is Gizachew Gutu, and I’m a DevOps Engineer with hands-on experience in CI/CD automation, cloud infrastructure, and container orchestration.
 
-I am also an opensource enthusiast who believes in sharing knowledge. I have my footprints in popular opensource projects like Argo CD, Argo CD Operator, Argo Rollouts Manager, GitOps Operator, F5 Ingress Controller, Nginx Ingress Controller by Nginx and others. 
+I specialize in building and maintaining scalable DevOps environments using tools like Terraform, Docker, Kubernetes, Jenkins, GitHub , and AWS. I’m passionate about automation, GitOps practices, and improving developer workflows through efficient CI/CD pipelines.
 
-Apart from working with Red Hat as a GitOps product lead, I also hold below positions in OpenSource communities
-- Maintainer of Argo CD Operator
-- Creator of Argo Rollouts Manager
-- Maintainer of RedHat Developer (GitOps operator)
-- Member of Argo Project
-- Member of Argo SIG Security
 
-If you want to learn complete devops and cloud for Free, you can checkout my YouTube channel.
-```
-https://www.youtube.com/abhishekveeramalla
-```
+
 
 
