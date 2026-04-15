@@ -33,3 +33,9 @@ kubectl get nodes
 ```
 
 You should see a list of nodes in your EKS cluster.
+## additional
+kubectl config view
+kubectl config current-context ----to access curent cluster
+kubectl onfig use-context <name of cluster>
+
+
